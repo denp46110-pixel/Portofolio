@@ -3,7 +3,7 @@
 Halo! Saya adalah mahasiswa D3 Teknik Mesin yang memiliki minat besar dalam perancangan mekanis, manufaktur, dan sistem robotika. Portofolio ini merangkum beberapa proyek desain berbantuan komputer (CAD) yang pernah saya kerjakan.
 
 ## 🛠️ Keahlian Teknis
-* **Software:** AutoCAD (2D/3D Drafting), SolidWorks, MATLAB Simulink.
+* **Software:** AutoCAD (2D/3D Drafting) dan SolidWorks.
 * **Fokus:** Desain Rangka Mekanis, Analisis Sistem Transmisi, Simulasi Termal/Fluida.
 
 ---
